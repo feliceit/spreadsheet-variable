@@ -6,7 +6,7 @@ Google Sheets reader variable allows reading data from Google Sheet and add use 
 
 - Read cell
 - Read Range
-- Read Two Columns
+- Read Columns as Object
 
 **To use Google Sheets reader variable, you'll need:**
 
